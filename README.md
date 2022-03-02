@@ -6,4 +6,4 @@ This website is created using [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 The website is available over the web and is hosted using [Vercel](https://vercel.com/):
 
-[![Visit site]](https://portfolio-rachit.vercel.app)
+[![Visit site]()](https://portfolio-rachit.vercel.app)
